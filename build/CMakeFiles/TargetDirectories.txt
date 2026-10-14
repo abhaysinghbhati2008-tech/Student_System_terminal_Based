@@ -1,0 +1,3 @@
+/Users/abhaysinghbhati/Desktop/student/build/CMakeFiles/Student_system.dir
+/Users/abhaysinghbhati/Desktop/student/build/CMakeFiles/edit_cache.dir
+/Users/abhaysinghbhati/Desktop/student/build/CMakeFiles/rebuild_cache.dir

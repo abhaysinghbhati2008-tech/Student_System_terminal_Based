@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/abhaysinghbhati/Desktop/student/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/Student_system.dir/main.cpp.o -c /Users/abhaysinghbhati/Desktop/student/main.cpp",
+  "file": "/Users/abhaysinghbhati/Desktop/student/main.cpp",
+  "output": "CMakeFiles/Student_system.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/abhaysinghbhati/Desktop/student/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -o CMakeFiles/Student_system.dir/student.cpp.o -c /Users/abhaysinghbhati/Desktop/student/student.cpp",
+  "file": "/Users/abhaysinghbhati/Desktop/student/student.cpp",
+  "output": "CMakeFiles/Student_system.dir/student.cpp.o"
+}
+]
